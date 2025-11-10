@@ -59,7 +59,7 @@ export default function HomePage() {
                   alt="Akshar Tyagi"
                   width={400}
                   height={400}
-                  className="object-cover"
+                  className="object-cover object-center scale-110"
                   priority
                 />
               </div>
