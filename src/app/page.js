@@ -28,7 +28,7 @@ export default function HomePage() {
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 mb-6 leading-tight">
                 Hi, I'm <span className="text-blue-600">Akshar Tyagi</span>
                 <br />
-                <span className="text-slate-600">Student at ISR</span>
+                <span className="text-slate-600">Student at University of Bristol</span>
               </h1>
               <p className="text-lg text-slate-600 mb-8 max-w-lg">
                 I am a student at a prestigious Russell group University with a
