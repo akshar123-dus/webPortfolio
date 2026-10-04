@@ -1,6 +1,6 @@
 ---
 title: "Quantum Computing and Its Impact on Artificial Intelligence"
-date: "2025-01-01"
+date: "2026-04-12"
 ---
 
 # Quantum Computing and Its Impact on Artificial Intelligence

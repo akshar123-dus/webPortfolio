@@ -1,6 +1,6 @@
 ---
 title: "Blockchain for Cybersecurity: Revolutionizing Data Protection"
-data: "2025-01-01"
+data: "2026-01-08"
 img: "/images/BlockchainForCyber/pic1.png"
 ---
 

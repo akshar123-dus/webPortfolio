@@ -1,6 +1,6 @@
 ---
 title: "Semiconductors and the Automotive Industry"
-date: "2025-01-01"
+date: "2026-02-21"
 ---
 
 # Semiconductors and the Automotive Industry

@@ -1,6 +1,6 @@
 ---
 title: "Edge Computing for IoT: A Paradigm Shift"
-date: "2025-01-01"
+date: "2026-03-14"
 ---
 
 # Edge Computing for IoT: A Paradigm Shift

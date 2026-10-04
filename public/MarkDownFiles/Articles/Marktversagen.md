@@ -1,6 +1,6 @@
 ---
 title: "Marktversagen führt zu Markterfolg"
-date: "2025-01-01"
+date: "2025-12-26"
 img: "/images/Marktversagen/pic1.jpg"
 ---
 

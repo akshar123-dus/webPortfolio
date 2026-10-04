@@ -31,7 +31,7 @@ export default function HomePage() {
                 <span className="text-slate-600">Student at ISR</span>
               </h1>
               <p className="text-lg text-slate-600 mb-8 max-w-lg">
-                I am a student at a prestigious international IB school with a
+                I am a student at a prestigious Russell group University with a
                 strong drive to make a difference in the world. Specifically, I
                 am learning more about coding, software development and
                 mathematics.
@@ -76,17 +76,16 @@ export default function HomePage() {
               About Me
             </h2>
             <p className="text-lg text-slate-600 mb-6">
-              Hello. I am Akshar Tyagi, a student at one of the world's top IB
-              schools. This portfolio highlights my projects, skills,
+              Hello. I am Akshar Tyagi, a student at one of the world's top university, University of Bristol. 
+              This portfolio highlights my projects, skills,
               accomplishments, and character. On this webpage, you can find all
               my articles about leading cutting-edge breakthroughs in fields
               such AI, Economics, or Engineering.{" "}
             </p>
             <p className="text-lg text-slate-600 mb-8">
-              I am a student at ISR(International School on the Rhine) and I am
-              currently in the 11th grade. I am studying the IB Diploma and I am
-              very passionate about coding and software development. I have
-              always been interested in technology and I am always looking for
+              I am a first-year student at the University of Bristol pursuing my Bachlors in 
+              Electrical and Electronic Engineering. I am very passionate about coding and 
+              software development. I have always been interested in technology and I am always looking for
               new ways to learn and improve my skills. I am also very interested
               in mathematics and I am always looking for new ways to learn and
               improve my skills.

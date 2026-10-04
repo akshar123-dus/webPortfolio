@@ -1,6 +1,6 @@
 ---
 title: "Advances in Robotics for Industrial Automation"
-date: "2025-01-01"
+date: "2026-02-05"
 ---
 
 # Advances in Robotics for Industrial Automation
